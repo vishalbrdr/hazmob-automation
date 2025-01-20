@@ -1,0 +1,20 @@
+{
+  "name": "hazmob-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^131.0.5",
+    "cli-progress": "^3.12.0",
+    "dotenv": "^16.4.7",
+    "inquirer": "^12.3.2",
+    "robotjs": "^0.6.0",
+    "selenium-webdriver": "^4.27.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.6",
+    "@types/selenium-webdriver": "^4.1.28",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
